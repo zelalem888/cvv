@@ -1,0 +1,100 @@
+body{
+  text-align: center;
+  background: rgb(5,104,106);
+  background: linear-gradient(0deg, rgba(5,104,106,1) 0%, rgba(107,250,255,1) 61%, rgba(255,255,255,1) 100%);
+  margin: 0;
+}
+img{
+  max-width: 100%;
+  max-height: 100%;
+}
+.img1{
+  height: 200px;
+  width: 200px;
+  display: block;
+  margin-left: 1000px;
+  margin-right: auto;
+
+}
+.img12{
+  height: 200px;
+  width: 200px;
+  margin-left: auto;
+  margin-right: 1000px;
+}
+.Zelalem{
+  border-color: #0DD3A9;
+  border-style: solid;
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  margin: 40px auto 40px auto;
+}
+.list1{
+  margin-left: 47%;
+  margin-right: 47%;
+  display: flex;
+}
+.hobbies{
+  margin-left: 400px;
+  margin-right: 400px;
+
+}
+.name{
+  font-family: 'Pacifico', cursive;
+}
+hr{
+border-style: none;
+border-top-style: dotted;
+border-color: gray;
+border-width: 8px;
+width: 5%;
+}
+.skills{
+  font-family: 'Permanent Marker', cursive;
+}
+.list1{
+  font-family: 'Permanent Marker', cursive;
+}
+.hobbies{
+  font-family: 'Chakra Petch', sans-serif;
+}
+}
+.img3{
+  display: inline;
+}
+.myButton {
+	box-shadow: 0px 1px 0px 0px #fff6af;
+	background:linear-gradient(to bottom, #ffec64 5%, #ffab23 100%);
+	background-color:#ffec64;
+	border-radius:8px;
+	border:1px solid #ffaa22;
+	display:inline-block;
+	cursor:pointer;
+	color:#333333;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffee66;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #ffab23 5%, #ffec64 100%);
+	background-color:#ffab23;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.facebook{
+padding-top: 20px;
+padding-bottom: 20px;
+background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(19,68,238,1) 100%);
+}
+a{
+  margin-left: 40px;
+text-decoration: none;
+}
